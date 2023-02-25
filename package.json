@@ -8,5 +8,13 @@
   },
   "keywords": ["cache", "memory"],
   "author": "Rishi Panthee<me@rishipanthee.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/rishi556/memm#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishi556/memm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rishi556/memm/issues"
+  }
 }
