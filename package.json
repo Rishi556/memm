@@ -1,0 +1,12 @@
+{
+  "name": "memm",
+  "version": "0.0.1",
+  "description": "In Memory Cache With TTL",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "keywords": ["cache", "memory"],
+  "author": "Rishi Panthee<me@rishipanthee.com>",
+  "license": "MIT"
+}
