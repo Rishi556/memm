@@ -1,5 +1,5 @@
 {
-  "name": "memm",
+  "name": "@rishi556/memm",
   "version": "0.0.1",
   "description": "In Memory Cache With TTL",
   "main": "index.js",
